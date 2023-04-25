@@ -1,2 +1,1 @@
-# Faulttolerance-in-spark-streaming
-In this repository I am have implemented checkpointing and dynamic allocation in spark streaming
+This repo has coding sample program for different usecases
